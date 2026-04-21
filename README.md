@@ -1,16 +1,62 @@
-## Hi there 👋
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=200&section=header&text=Alejandro%20Hidalgo&fontSize=50&fontColor=fff&animation=fadeIn)
 
-<!--
-**Vicente-Alejandro/Vicente-Alejandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+### Software Engineering Student | Rust Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A technical-driven developer focused on system architecture, high-performance computing with **Rust**, and industrial automation.
+
+![Location](https://img.shields.io/badge/Location-Chile%20-blue?style=flat-square)
+
+</div>
+
+---
+
+### 💻 Tech Stack
+
+* **Languages:** Rust (Core), PHP (Laravel), SQL, Python, JS.
+* **Frameworks & Tools:** Tauri, Git, Linux, Rocket/Actix-web, PowerBI, Flask, Node.
+* **Infrastructure & Cloud:** AWS, Linux system administration (Debian), CI/CD pipelines.
+* **Specializations:** Industrial calculations (Roger Holmberg methodology), RTS Engine development, Web Development.
+* **Business Intelligence:** Python data analysis, Power BI dashboards, Database design and optimization.
+
+---
+
+### 🚀 Key Projects
+
+* **[Ironclad-Fronts](https://github.com/Vicente-Alejandro/Ironclad-Fronts):** Native RTS game engine built from scratch in Rust.
+* **Everwind:** Industrial automation software for underground mining, implementing the Roger Holmberg method for blasting calculations.
+* **[Asesoriasderenta.com](https://asesoriasderenta.com):** Commercial platform for tax consultancy and financial management.
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vicente-Alejandro&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
+
+</div>
+
+---
+
+### 💼 Experience & Education
+
+* **Informatics Engineering Student** at INACAP Chile (Final Year).
+* **Web Developer** at Asesorías de Renta (Commercial web solutions).
+* **Technical Assistant** at INACAP Chile (Academic support and software labs).
+* **Mining Software Lead:** Architect of underground mining calculation engines.
+
+---
+
+### 📫 Contact Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-alejandrohidalgosh@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:alejandrohidalgosh@gmail.com)
+
+</div>
+
+---
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer)
