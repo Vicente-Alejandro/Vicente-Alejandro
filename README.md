@@ -31,14 +31,6 @@ A technical-driven developer focused on system architecture, high-performance co
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vicente-Alejandro&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
-
-</div>
-
 ---
 
 ### 💼 Experience & Education
@@ -59,9 +51,6 @@ A technical-driven developer focused on system architecture, high-performance co
 </div>
 
 ---
-
-"I wish to add my mite towards expounding & interpreting the Almighty, & his laws & works, for the most effective use of mankind; and certainly, I should feel it no small glory if I were enabled to be one of his most noted prophets (using this word in my own peculiar sense) in this world." 
-— **Ada Lovelace**
 
 <p align="center">
   <img src="https://cdn.bhdw.net/im/naruto-shippuden-hidden-leaf-village-wallpaper-7995_w635.webp" alt="Hidden Leaf Village" width="635">
