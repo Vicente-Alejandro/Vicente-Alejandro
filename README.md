@@ -38,7 +38,7 @@ A technical-driven developer focused on system architecture, high-performance co
 * **Informatics Engineering Student** at INACAP Chile (Final Year).
 * **Web Developer** at Asesorías de Renta (Commercial web solutions).
 * **Technical Assistant** at INACAP Chile (Academic support and software labs).
-* **Mining Software Lead:** Architect of underground mining calculation engines.
+* **Mining Software Lead:** Architect of underground mining calculation engines with ML.
 
 ---
 
