@@ -4,7 +4,7 @@
 
 ### Software Engineering Student | Rust Developer
 
-A technical-driven developer focused on system architecture, high-performance computing with **Rust**, and industrial automation.
+A technical-driven developer focused on system architecturea and high-performance computing with **Rust**.
 
 ![Location](https://img.shields.io/badge/Location-Chile%20-blue?style=flat-square)
 
