@@ -15,7 +15,7 @@ A technical-driven developer focused on system architecturea and high-performanc
 ### 💻 Tech Stack
 
 * **Languages:** Rust (Core), PHP (Laravel), SQL, Python, JS.
-* **Frameworks & Tools:** Tauri, Git, Linux, Rocket/Actix-web, PowerBI, Flask, Node.
+* **Frameworks & Tools:** Bevy, Tauri, Git, Linux, Rocket/Actix-web, PowerBI, Flask, Node.
 * **Infrastructure & Cloud:** AWS, Linux system administration (Debian), CI/CD pipelines.
 * **Specializations:** Industrial calculations (Roger Holmberg methodology), RTS Engine development, Web Development.
 * **Business Intelligence:** Python data analysis, Power BI dashboards, Database design and optimization.
